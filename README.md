@@ -27,6 +27,29 @@ In this project, I explore a dataset of exoplanets, planets outside our solar sy
 - Dataset units are relative to Earth or the Sun.
 - Habitable Zone Distance criteria are applied for potential habitability.
 - Estimated one planet per star in our galaxy.
+## Tech Stack
+
+🚀 **Languages:**
+- Python
+
+📊 **Data Analysis and Visualization:**
+- Pandas: Data manipulation and analysis
+- Matplotlib: Creating static, interactive, and animated visualizations
+- Seaborn: Statistical data visualization
+- NumPy: Numerical operations
+
+🤖 **Machine Learning:**
+- Scikit-Learn: Machine learning models and tools
+
+📚 **Other Tools and Frameworks:**
+- Jupyter Notebooks: Interactive computing and data exploration
+
+🔧 **Version Control:**
+- Git: Version control system
+
+💻 **Development Environment:**
+- Visual Studio Code
+
 ## 🔧 Deployment
 
 To deploy this project run
