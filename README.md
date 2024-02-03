@@ -54,7 +54,7 @@ Contributions are always welcome!
 
 
 ## 📰 Project Report:
-For a detailed report on the project, analysis, and conclusions, refer to the [Project Report](https://linktodocumentation).
+For a detailed report on the project, analysis, and conclusions, refer to the [Project Report](https://github.com/ZahirAhmadChaudhry/Exoplanets-Dataset-Analysis/tree/main/Reports).
 
 Feel free to explore, contribute, and use this project for your own analyses! 🚀✨
 ## 📄 License
